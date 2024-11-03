@@ -20,3 +20,9 @@
       align-items: center;
       justify-content: center;
 }
+.job {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+}
